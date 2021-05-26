@@ -1,0 +1,1 @@
+ KIA frontier;white 143 13200 2200 manufactured by KIA;9  MASTER FOTON;white 400 12400 1800 manufactured by MASTER;14  NISSAN JAC;black 14 150000 1700 manufactured by NISSAN;12  FAW carrier;white 400 14500 2000 manufactured by FAW;13  SUZUKI mega;white 123 124000 2300 manufactured by SUZUKI;12 

@@ -1,0 +1,1 @@
+ Yamaha R6;red 449 4000 100 best sports bike;  SUZUKI GS;black 499 20000 150 manufactured by SUZUKI;  HONDA CG;red 123 15000 125 manufactured by HONDA;  YAHAMA YBR;black 145 150000 150 manufactured by YAHAMA;  UNIQUE Xtreme;black 123 60000 70 manufactured by UNIQUE;  SUPERPOWER CD;red 145 60000 70 manufactured by SUPERPOWER; 
