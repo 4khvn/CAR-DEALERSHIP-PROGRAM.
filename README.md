@@ -1,2 +1,3 @@
 
-Do Save both allheaders.h and classes file and all 3 text files in same folder in order to run. Enjoy!
+Do Save all files in same folder in order to run. Enjoy!
+Visual studio is preffered.
